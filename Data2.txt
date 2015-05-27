@@ -1,0 +1,11 @@
+NumberOfCities=8
+MutationRate=0.07
+CrossOverRate=0.90
+City1|x=322|y=465|
+City2|x=235|y=467|
+City3|x=333|y=69|
+City4|x=822|y=203|
+City5|x=845|y=194|
+City6|x=161|y=56|
+City7|x=770|y=578|
+City8|x=489|y=395|
