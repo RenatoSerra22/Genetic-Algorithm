@@ -2,6 +2,8 @@
 This was a small project i did for artificial inteligence while studying in Poland, the idea was to find the shortest path that would pass by a defined number of cities, in a data set.
 And do it both both in a brute force manner and by using a genetic algorithm and comparing the performance of both and how this changes when the dataset grows.
 
+![](http://anantsoftcomputing.com/wp-content/uploads/2015/08/What-is-Genetic-Algorithm-Anantsoftcomputing.jpg)
+
 # Information about the project
 __Initialization__ - The population can be initialized from a .txt file or at random. It can be chosen at the beginning of the main method which mode is used. There are 2 Data files (Data.txt and Data2.txt). 
 
